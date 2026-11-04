@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "Sarailmax-1793777663",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3e6786c7-d696-80f8-416a-f1f0b31b3fdf"
+  }
+}
