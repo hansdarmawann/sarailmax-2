@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SarailmaxNB",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "aca0a090-3b1b-a0cd-478b-ff92db00a308"
+  }
+}
