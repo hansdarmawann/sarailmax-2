@@ -8,18 +8,27 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "954ffffe-e1b0-49e7-b6f7-fb165a0ade69",
-# META       "default_lakehouse_name": "sarimax_retail",
-# META       "default_lakehouse_workspace_id": "852736ac-796c-45be-81bc-0c3b1ab7666c",
+# META       "default_lakehouse": "ecd2ca56-9ef0-41c6-b81f-ec9ce329bf64",
+# META       "default_lakehouse_name": "sarailmax",
+# META       "default_lakehouse_workspace_id": "71b0c63f-dce5-4925-879e-cb17b2a8a29e",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "954ffffe-e1b0-49e7-b6f7-fb165a0ade69"
+# META           "id": "ecd2ca56-9ef0-41c6-b81f-ec9ce329bf64"
 # META         }
 # META       ]
 # META     },
 # META     "environment": {
-# META       "environmentId": "ae090f3f-7ebe-4f3f-8870-9a5bfb023828",
-# META       "workspaceId": "852736ac-796c-45be-81bc-0c3b1ab7666c"
+# META       "environmentId": "8410a360-609a-ae87-409f-7f83207e70bb",
+# META       "workspaceId": "00000000-0000-0000-0000-000000000000"
+# META     },
+# META     "warehouse": {
+# META       "default_warehouse": "c56d5191-8ca9-45d5-82a8-c59a08ea21df",
+# META       "known_warehouses": [
+# META         {
+# META           "id": "c56d5191-8ca9-45d5-82a8-c59a08ea21df",
+# META           "type": "Lakewarehouse"
+# META         }
+# META       ]
 # META     }
 # META   }
 # META }

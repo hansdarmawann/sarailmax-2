@@ -1,12 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Notebook",
-    "displayName": "Sarailmax NB",
-    "description": ""
+    "type": "MLModel",
+    "displayName": "aisample-superstore-forecast-2-Sarimax"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "f288ac22-183b-a73c-4a43-db39cc361e50"
+    "logicalId": "282cc565-b2fa-8329-4674-306b833c59ca"
   }
 }
