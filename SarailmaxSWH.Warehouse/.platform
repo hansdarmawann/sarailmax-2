@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "SarailmaxSWH",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "64f9f350-afab-8271-4642-6d6cfad82218"
+  }
+}
